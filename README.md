@@ -1,5 +1,16 @@
-Live : https://chat-app-kxvk.onrender.com/
-
+Live : https://chat-app-kxvk.onrender.com/ 
+<br>
+<br>
+<<<<<------------>>>>>>
+<br> IMPORTANT!!!!!!!!!!
+- This application is hosted on a free deployment platform, which may put the server into a "sleep" state after periods of inactivity to conserve resources. <br>
+As a result, it might take a few moments to wake up and respond to the first request. This is normal for free-tier hosting and does not affect the application's functionality. <br>
+Subsequent requests will be processed quickly once the server is active.<br>
+<br>
+<br>
+<<<<<------------>>>>>>
+<br>
+<br>
 chat app is a powerful, full-stack, real-time web application that seamlessly integrates backend functionality with an interactive React frontend.<br>
 Built in just 3 days, this project highlights the best practices in modern web development, leveraging real-time communication, state management, and secure APIs.<br>
 <br>
